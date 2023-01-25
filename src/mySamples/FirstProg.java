@@ -8,6 +8,7 @@ public class FirstProg {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("This is my First Page:");
+                System.out.println("This is my Second Page:");
 		
 		// System Property for Chrome Driver   
 	    System.setProperty("webdriver.chrome.driver","D:\\chromedriver.exe");  
